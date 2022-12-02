@@ -1,0 +1,81 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linha do Tempo</title>
+    <link rel="stylesheet" href="./libs/v6.9.0-dist/ol.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<header>          
+    
+    <nav id="menu">
+        <div>
+            <ul class="dropdown">
+                <li class="imgg"><a href="#">
+
+            <svg width="32" height="20" viewBox="0 0 24 14" fill="none" xmlns="http://www.w3.org/2000/svg%22%3E">
+                <path d="M0 8.4H2.66667V5.6H0V8.4ZM0 14H2.66667V11.2H0V14ZM0 2.8H2.66667V0H0V2.8ZM5.33333 8.4H24V5.6H5.33333V8.4ZM5.33333 14H24V11.2H5.33333V14ZM5.33333 0V2.8H24V0H5.33333Z" fill="rgb(255, 255, 255)"/>
+            </svg></a>
+            <ul>
+
+        <div id="a" class="flex">
+
+            <svg id="aa" class="imgs" width="20" height="20" viewBox="0 0 30 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8 17V11H12V17H17V9H20L10 0L0 9H3V17H8Z" fill="#ffff"/>
+            </svg>
+
+                <li><a href="Index.html">Mapa</a></li>
+        </div>
+        <div id="b" class="flex">
+
+            <svg id="bb" class="imgs" style="color: white" xmlns="http://www.w3.org/2000/svg" width="32" height="20" fill="currentColor" class="bi bi-search" viewBox="0 0 26 26">
+                <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" fill="white"></path>
+            </svg>
+
+            <li><a href="./Rotas/Search/index.html">Pesquisar</a></li>
+        </div>
+        <div id="c" class="flex">
+
+            <svg id="cc" class="imgs" width="20" height="17" viewBox="0 0 30 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M23 2.16667C23 3.35833 22.0591 4.33333 20.9091 4.33333C20.7209 4.33333 20.5432 4.31167 20.3759 4.2575L16.6541 8.10333C16.7064 8.27667 16.7273 8.47167 16.7273 8.66667C16.7273 9.85833 15.7864 10.8333 14.6364 10.8333C13.4864 10.8333 12.5455 9.85833 12.5455 8.66667C12.5455 8.47167 12.5664 8.27667 12.6186 8.10333L9.95273 5.34083C9.78545 5.395 9.59727 5.41667 9.40909 5.41667C9.22091 5.41667 9.03273 5.395 8.86545 5.34083L4.10864 10.2808C4.16091 10.4542 4.18182 10.6383 4.18182 10.8333C4.18182 12.025 3.24091 13 2.09091 13C0.940909 13 0 12.025 0 10.8333C0 9.64167 0.940909 8.66667 2.09091 8.66667C2.27909 8.66667 2.45682 8.68833 2.62409 8.7425L7.39136 3.81333C7.33909 3.64 7.31818 3.445 7.31818 3.25C7.31818 2.05833 8.25909 1.08333 9.40909 1.08333C10.5591 1.08333 11.5 2.05833 11.5 3.25C11.5 3.445 11.4791 3.64 11.4268 3.81333L14.0927 6.57583C14.26 6.52167 14.4482 6.5 14.6364 6.5C14.8245 6.5 15.0127 6.52167 15.18 6.57583L18.8914 2.71917C18.8391 2.54583 18.8182 2.36167 18.8182 2.16667C18.8182 0.975 19.7591 0 20.9091 0C22.0591 0 23 0.975 23 2.16667Z" fill="#Ffff"/>
+            </svg>
+
+                <li><a href="./Rotas/Linhatempo/index.html">Linha do Tempo</a></li>
+        </div>
+        </ul>
+        </div>
+        <h1>Retirada da Laguna</h1>
+        <figure>
+            <img style="height: 42px; width: 32px;" src="./data/Brasão EB.png">
+            <img style="height: 42px; width: 32px;" src="data/Simbolo Brigada.png">
+            <img style="height: 42px; width: 32px;" src="data/Logo Simples.png">
+        </figure>
+    </nav>
+</header>
+<body>
+
+        <div class="search-box">
+            <form>
+                <div class="user-box">
+                    <input id="searchbar" onkeyup="search_monumento()" type="text" name="Search">
+                    <label>Pesquisar</label>
+                </div>
+            </form>
+            <ol id='list' class="js">
+                <li onmouseover="mouseOver()"  onmouseout="mouseOut()" id="mouseAlt" class="monumentos card">KM 12</li>
+                <li onmouseover="mouseOver()"  onmouseout="mouseOut()" id="mouseAlt" class="monumentos card">KM 154</li>
+                <li onmouseover="mouseOver()"  onmouseout="mouseOut()" id="mouseAlt" class="monumentos card">KM 123</li>
+                <li onmouseover="mouseOver()"  onmouseout="mouseOut()" id="mouseAlt" class="monumentos card">KM 156</li>
+                <li onmouseover="mouseOver()"  onmouseout="mouseOut()" id="mouseAlt" class="monumentos card">KM 12</li>
+                <li onmouseover="mouseOver()"  onmouseout="mouseOut()" id="mouseAlt" class="monumentos card">KM 157</li>
+                <li onmouseover="mouseOver()"  onmouseout="mouseOut()" id="mouseAlt" class="monumentos card">KM 108</li>
+                <li onmouseover="mouseOver()"  onmouseout="mouseOut()" id="mouseAlt" class="monumentos card">KM 21</li>
+                <li onmouseover="mouseOver()"  onmouseout="mouseOut()" id="mouseAlt" class="monumentos card">KM 176</li>
+                <li onmouseover="mouseOver()"  onmouseout="mouseOut()" id="mouseAlt" class="monumentos card">KM 235</li>
+                <li onmouseover="mouseOver()"  onmouseout="mouseOut()" id="mouseAlt" class="monumentos card">KM 43</li>
+            </ol>
+        </div>
+    </body>    
+    <script src="./Monumento.js"></script>    
+</html>

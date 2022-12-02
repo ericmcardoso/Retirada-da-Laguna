@@ -1,0 +1,2011 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 1,
+        "Nome": "Travessia do Apa",
+        "Km": 24,
+        "Data": "11 de Maio",
+        "Historia": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque varius purus nibh, ac accumsan tellus dictum sit amet. Integer sit amet interdum augue. Nullam neque magna, lobortis ac lectus vel, ultricies malesuada nunc. Sed euismod tortor a ante hendrerit mattis. Fusce egestas tristique nunc, in hendrerit odio ornare sed. Phasellus ultrices convallis molestie. Suspendisse sed tellus eget est placerat convallis vulputate ut arcu. Sed et semper erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis venenatis egestas est eu egestas. Praesent condimentum sollicitudin facilisis. Aenean non sem ullamcorper, molestie mi non, viverra urna. Phasellus rutrum ultricies nunc, at porttitor sapien convallis sed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.520075,
+          -22.112297222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 2,
+        "Nome": "Batalha de Nhandipá",
+        "Km": 27,
+        "Data": "11 de Maio",
+        "Historia": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.521769444444,
+          -22.093533333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 3,
+        "Nome": "Estrada da Machorra",
+        "Km": 29,
+        "Data": "11 de Maio",
+        "Historia": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.505511111111,
+          -22.076444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 4,
+        "Nome": "Espirais de Fumo",
+        "Km": 32,
+        "Data": "11 de Maio",
+        "Historia": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.519119444444,
+          -22.052561111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 5,
+        "Nome": "Cabeceira José Carlos",
+        "Km": 35,
+        "Data": "11 de Maio",
+        "Historia": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.515794444444,
+          -22.030025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 5,
+        "Nome": "Cabeceira José Carlos",
+        "Km": 35,
+        "Data": "11 de Maio",
+        "Historia": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.521769444444,
+          -22.093533333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 6,
+        "Nome": "Emaranhada Macega",
+        "Km": 37,
+        "Data": "12 de Maio",
+        "Historia": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.505511111111,
+          -22.076444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 7,
+        "Nome": "Brejo Profundo",
+        "Km": 39,
+        "Data": "12 de Maio",
+        "Historia": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.519119444444,
+          -22.052561111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 8,
+        "Nome": "Treavessia José Carlos",
+        "Km": 40,
+        "Data": "14 de Maio",
+        "Historia": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.515794444444,
+          -22.030025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 9,
+        "Nome": "Abandono da Bagagem",
+        "Km": 42,
+        "Data": "12 de Maio",
+        "Historia": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.524575,
+          -22.019827777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 10,
+        "Nome": "Mata Cerrada",
+        "Km": 44,
+        "Data": "14 de Maio",
+        "Historia": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.538558333333,
+          -21.996544444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 11,
+        "Nome": "Rumo Pedra de Cal",
+        "Km": 46,
+        "Data": "14 de Maio",
+        "Historia": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.544758333333,
+          -21.984083333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 12,
+        "Nome": "Cerrado de Taquaris",
+        "Km": 49,
+        "Data": "14 de Maio",
+        "Historia": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.533172222222,
+          -21.961975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 13,
+        "Nome": "Sucessão de Outeiros",
+        "Km": 51,
+        "Data": "15 de Maio",
+        "Historia": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.534188888889,
+          -21.943761111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 14,
+        "Nome": "Estreitos Lameiros",
+        "Km": 53,
+        "Data": "15 de Maio",
+        "Historia": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.499638888889,
+          -21.941433333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 15,
+        "Nome": "Clarões de Incêndio",
+        "Km": 55,
+        "Data": "15 de Maio",
+        "Historia": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.483922222222,
+          -21.914991666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 16,
+        "Nome": "Frequentes Colóquios",
+        "Km": 56,
+        "Data": "16 de Maio",
+        "Historia": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.466438888889,
+          -21.902719444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 17,
+        "Nome": "Rumo Nordeste",
+        "Km": 57,
+        "Data": "16 de Maio",
+        "Historia": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.446488888889,
+          -21.895119444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 18,
+        "Nome": "Verdadeiro Caminho",
+        "Km": 58,
+        "Data": "16 de Maio",
+        "Historia": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.428463888889,
+          -21.874758333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 19,
+        "Nome": "Rio das Cruzes",
+        "Km": 60,
+        "Data": "16 de Maio",
+        "Historia": 16
+      },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -56.404069444444,
+            -21.872305555556
+          ]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 20,
+        "Nome": "Mata a Esquerda",
+        "Km": 63,
+        "Data": "16 de Maio",
+        "Historia": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.392355555556,
+          -21.855963888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 21,
+        "Nome": "Andando ao Acaso",
+        "Km": 65,
+        "Data": "17 de Maio",
+        "Historia": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.375638888889,
+          -21.846258333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 22,
+        "Nome": "Brejo Extenso",
+        "Km": 68,
+        "Data": "18 de Maio",
+        "Historia": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.3747,
+          -21.828136111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 23,
+        "Nome": "Caudalosa Ribeira",
+        "Km": 72,
+        "Data": "19 de Maio",
+        "Historia": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.411388888889,
+          -21.819611111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 24,
+        "Nome": "Cólera Morbos",
+        "Km": 74,
+        "Data": "20 de Maio",
+        "Historia": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.431494444444,
+          -21.803138888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 25,
+        "Nome": "Sol Abrasador",
+        "Km": 76,
+        "Data": "20 de Maio",
+        "Historia": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.409911111111,
+          -21.777763888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 26,
+        "Nome": "Bosque de Pindaibas",
+        "Km": 78,
+        "Data": "20 de Maio",
+        "Historia": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.427433333333,
+          -21.735366666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 27,
+        "Nome": "Morro da Margarida",
+        "Km": 81,
+        "Data": "21 de Maio",
+        "Historia": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.419844444444,
+          -21.720727777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 28,
+        "Nome": "Alto Involuntario",
+        "Km": 84,
+        "Data": "22 de Maio",
+        "Historia": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.415894444444,
+          -21.702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 29,
+        "Nome": "Terreno Algadiço",
+        "Km": 86,
+        "Data": "22 de Maio",
+        "Historia": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.405138888889,
+          -21.687322222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 30,
+        "Nome": "Bosque do Prata",
+        "Km": 90,
+        "Data": "23 de Maio",
+        "Historia": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.387661111111,
+          -21.665866666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 31,
+        "Nome": "Ribeiro do Prata",
+        "Km": 92,
+        "Data": "23 de Maio",
+        "Historia": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.386611111111,
+          -21.645677777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 32,
+        "Nome": "Travessia do Rio Prata",
+        "Km": 94,
+        "Data": "25 de Maio",
+        "Historia": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.364208333333,
+          -21.625805555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 33,
+        "Nome": "Cambarcê",
+        "Km": 96,
+        "Data": "26 de Maio",
+        "Historia": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.345063888889,
+          -21.638080555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 34,
+        "Nome": "Nutrida Fuzilaria",
+        "Km": 98,
+        "Data": "26 de Maio",
+        "Historia": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.3371,
+          -21.620902777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 35,
+        "Nome": "Andando Aguilhoados",
+        "Km": 100,
+        "Data": "26 de Maio",
+        "Historia": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.328566666667,
+          -21.596408333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 36,
+        "Nome": "Pungente Desespero",
+        "Km": 102,
+        "Data": "26 de Maio",
+        "Historia": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.307136111111,
+          -21.587719444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 37,
+        "Nome": "Campos Abertos",
+        "Km": 104,
+        "Data": "26 de Maio",
+        "Historia": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.311419444444,
+          -21.574222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 38,
+        "Nome": "Grande Quadrado",
+        "Km": 106,
+        "Data": "26 de Maio",
+        "Historia": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.312288888889,
+          -21.5466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 39,
+        "Nome": "Tiros Isolados",
+        "Km": 108,
+        "Data": "26 de Maio",
+        "Historia": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.336111111111,
+          -21.527638888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 40,
+        "Nome": "Marcha Decisiva",
+        "Km": 110,
+        "Data": "26 de Maio",
+        "Historia": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.337144444444,
+          -21.519288888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 41,
+        "Nome": "Voz Grave dos Canhões",
+        "Km": 112,
+        "Data": "26 de Maio",
+        "Historia": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.337169444444,
+          -21.499683333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 42,
+        "Nome": "Vozear dos Carreiros",
+        "Km": 114,
+        "Data": "26 de Maio",
+        "Historia": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.335847222222,
+          -21.482708333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 43,
+        "Nome": "Morte e Desalento",
+        "Km": 116,
+        "Data": "26 de Maio",
+        "Historia": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.338102777778,
+          -21.461036111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 44,
+        "Nome": "Córrego Lageado",
+        "Km": 118,
+        "Data": "26 de Maio",
+        "Historia": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.327580555556,
+          -21.451936111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 45,
+        "Nome": "Marcha Lúbrege",
+        "Km": 120,
+        "Data": "26 de Maio",
+        "Historia": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.313358333333,
+          -21.432216666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 46,
+        "Nome": "Louçaria da Natureza",
+        "Km": 122,
+        "Data": "26 de Maio",
+        "Historia": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.291777777778,
+          -21.435613888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 47,
+        "Nome": "Pasto Barreiro",
+        "Km": 124,
+        "Data": "26 de Maio",
+        "Historia": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.268141666667,
+          -21.439522222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 48,
+        "Nome": "Cercado do Retiro",
+        "Km": 126,
+        "Data": "26 de Maio",
+        "Historia": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.238761111111,
+          -21.442727777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 49,
+        "Nome": "Passo do Cachoeirinha",
+        "Km": 120,
+        "Data": "27 de Maio",
+        "Historia": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.222227777778,
+          -21.435441666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 50,
+        "Nome": "Mata do Miranda",
+        "Km": 129,
+        "Data": "27 de Maio",
+        "Historia": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.207675,
+          -21.436319444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 51,
+        "Nome": "Cemitério dos Heróis",
+        "Km": 130,
+        "Data": "27 de Maio",
+        "Historia": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.187777777778,
+          -21.445602777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 52,
+        "Nome": "Passo do Jardim",
+        "Km": 131,
+        "Data": "31 de Maio",
+        "Historia": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.182147222222,
+          -21.461030555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 53,
+        "Nome": "Fazenda Jardim",
+        "Km": 132,
+        "Data": "1 de Junho",
+        "Historia": 53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.163147222222,
+          -21.448163888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 54,
+        "Nome": "Marcha para Nioac",
+        "Km": 134,
+        "Data": "1 de Junho",
+        "Historia": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.149261111111,
+          -21.450055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 55,
+        "Nome": "Estrada do Jardim",
+        "Km": 135,
+        "Data": "1 de Junho",
+        "Historia": 55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.147211111111,
+          -21.449330555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 56,
+        "Nome": "Estrada Larga e Plana",
+        "Km": 137,
+        "Data": "1 de Junho",
+        "Historia": 56
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.137330555556,
+          -21.447466666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 57,
+        "Nome": "Silêncio na Coluna",
+        "Km": 140,
+        "Data": "1de Junho",
+        "Historia": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.125963888889,
+          -21.461319444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 58,
+        "Nome": "Córrego da Estiva",
+        "Km": 142,
+        "Data": "1 de Junho",
+        "Historia": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.115344444444,
+          -21.4607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 59,
+        "Nome": "Motim das Padiolas",
+        "Km": 144,
+        "Data": "1 de Junho",
+        "Historia": 59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.094094444444,
+          -21.465286111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 60,
+        "Nome": "Posto Paraguaio",
+        "Km": 146,
+        "Data": "1 de Junho",
+        "Historia": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.064544444444,
+          -21.463933333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 61,
+        "Nome": "Carne Chamuscada",
+        "Km": 148,
+        "Data": "1 de Junho",
+        "Historia": 61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.042177777778,
+          -21.455911111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 62,
+        "Nome": "Gritos A gudos",
+        "Km": 150,
+        "Data": "1 de Junho",
+        "Historia": 62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.024116666667,
+          -21.460519444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 63,
+        "Nome": "Estrada da Cava",
+        "Km": 152,
+        "Data": "2 de Junho",
+        "Historia": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.002975,
+          -21.464769444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 64,
+        "Nome": "Pouso da Madrugada",
+        "Km": 155,
+        "Data": "2 de Junho",
+        "Historia": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.985791666667,
+          -21.461566666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 65,
+        "Nome": "Espesso Cerrado",
+        "Km": 156,
+        "Data": "2 de Junho",
+        "Historia": 65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.966722222222,
+          -21.451652777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 66,
+        "Nome": "Protegidos da Cavalaria",
+        "Km": 158,
+        "Data": "2 de Junho",
+        "Historia": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.952516666667,
+          -21.434866666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 67,
+        "Nome": "Marcha Segura",
+        "Km": 160,
+        "Data": "2 de Junho",
+        "Historia": 67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.937544444444,
+          -21.411952777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 68,
+        "Nome": "Capina Descoberta",
+        "Km": 162,
+        "Data": "2 de Junho",
+        "Historia": 68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.928602777778,
+          -21.402180555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 69,
+        "Nome": "Olho d'Água",
+        "Km": 165,
+        "Data": "2 de Junho",
+        "Historia": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.923805555556,
+          -21.384880555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 70,
+        "Nome": "Bosque do Canindé",
+        "Km": 169,
+        "Data": "2 de Junho",
+        "Historia": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.924391666667,
+          -21.365763888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 71,
+        "Nome": "Passo do Canindé",
+        "Km": 170,
+        "Data": "2 de Junho",
+        "Historia": 71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.924958333333,
+          -21.351236111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 72,
+        "Nome": "Destroços dos Meradores",
+        "Km": 172,
+        "Data": "2 de Junho",
+        "Historia": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.916533333333,
+          -21.323583333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 73,
+        "Nome": "Montes de Arroz",
+        "Km": 174,
+        "Data": "2 de Junho",
+        "Historia": 73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.893372222222,
+          -21.298822222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 74,
+        "Nome": "Descarga dos Canhões",
+        "Km": 176,
+        "Data": "2 de Junho",
+        "Historia": 74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.869658333333,
+          -21.316277777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 75,
+        "Nome": "Marcha na Planicie",
+        "Km": 178,
+        "Data": "3 de Junho",
+        "Historia": 75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.865319444444,
+          -21.293366666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 76,
+        "Nome": "Inimigo a Retaguarda",
+        "Km": 180,
+        "Data": "3 de Junho",
+        "Historia": 76
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.855033333333,
+          -21.277791666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 77,
+        "Nome": "Bois Dos Mercadores",
+        "Km": 182,
+        "Data": "3 de Junho",
+        "Historia": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.842894444444,
+          -21.258911111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 78,
+        "Nome": "Passo de Nioac",
+        "Km": 184,
+        "Data": "3 de Junho",
+        "Historia": 78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.829902777778,
+          -21.247113888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 79,
+        "Nome": "Fumaça no Horizonte",
+        "Km": 186,
+        "Data": "3 de Junho",
+        "Historia": 79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.826316666667,
+          -21.2291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 80,
+        "Nome": "Vila Nioac",
+        "Km": 188,
+        "Data": "3 de Junho",
+        "Historia": 80
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.834616666667,
+          -21.211836111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 81,
+        "Nome": "Pipas de Aguardente",
+        "Km": 189,
+        "Data": "5 de Junho",
+        "Historia": 81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.836763888889,
+          -21.195622222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 82,
+        "Nome": "Caminho Tranquilo",
+        "Km": 192,
+        "Data": "5 de Junho",
+        "Historia": 82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.837069444444,
+          -21.176208333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 83,
+        "Nome": "Excelentes Bois",
+        "Km": 194,
+        "Data": "5 de Junho",
+        "Historia": 83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.833019444444,
+          -21.159133333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 84,
+        "Nome": "Passo do Formiga",
+        "Km": 197,
+        "Data": "5 de Junho",
+        "Historia": 84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8276,
+          -21.144858333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 85,
+        "Nome": "Córrego Lageado",
+        "Km": 200,
+        "Data": "6 de Junho",
+        "Historia": 85
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.842277777778,
+          -21.125680555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 86,
+        "Nome": "Numerosas Moitas",
+        "Km": 202,
+        "Data": "6 de Junho",
+        "Historia": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.858138888889,
+          -21.110836111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 87,
+        "Nome": "Rumo Nordeste",
+        "Km": 204,
+        "Data": "6 de Junho",
+        "Historia": 87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.852861111111,
+          -21.084375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 88,
+        "Nome": "Córrego da Rapadura",
+        "Km": 206,
+        "Data": "6 de Junho",
+        "Historia": 88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.87435,
+          -21.058344444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 89,
+        "Nome": "Estrada Taquarussu",
+        "Km": 208,
+        "Data": "6 de Junho",
+        "Historia": 89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.885747222222,
+          -21.039369444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 90,
+        "Nome": "Ribeirão das Areias",
+        "Km": 209,
+        "Data": "6 de Junho",
+        "Historia": 90
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.887027777778,
+          -21.020697222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 91,
+        "Nome": "Sítio dos Desconhecidos",
+        "Km": 212,
+        "Data": "7 de Junho",
+        "Historia": 91
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.884913888889,
+          -20.997188888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 92,
+        "Nome": "Densas Matas",
+        "Km": 214,
+        "Data": "7 de Junho",
+        "Historia": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.881372222222,
+          -20.976586111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 93,
+        "Nome": "Córrego Guaxupé",
+        "Km": 216,
+        "Data": "7 de Junho",
+        "Historia": 93
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.873741666667,
+          -20.965730555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 94,
+        "Nome": "Cabeceira da Espinídio",
+        "Km": 218,
+        "Data": "7 de Junho",
+        "Historia": 94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.845102777778,
+          -20.948594444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 95,
+        "Nome": "Favorável a Surpresas",
+        "Km": 220,
+        "Data": "7 de Junho",
+        "Historia": 95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.833333333333,
+          -20.933791666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 96,
+        "Nome": "Perseguição Frouxa",
+        "Km": 223,
+        "Data": "7 de Junho",
+        "Historia": 96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.814688888889,
+          -20.922708333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 97,
+        "Nome": "Sítios Familiares",
+        "Km": 226,
+        "Data": "7 de Junho",
+        "Historia": 97
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.821044444444,
+          -20.902833333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 98,
+        "Nome": "Córrego Espinídio",
+        "Km": 227,
+        "Data": "7 de Junho",
+        "Historia": 98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.810011111111,
+          -20.880655555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 99,
+        "Nome": "Quase 4 Leguas",
+        "Km": 229,
+        "Data": "7 de Junho",
+        "Historia": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.798288888889,
+          -20.863644444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 100,
+        "Nome": "Retorno a Nioac",
+        "Km": 232,
+        "Data": "8 de Junho",
+        "Historia": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8069,
+          -20.839802777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 101,
+        "Nome": "Toque dos Clarins",
+        "Km": 234,
+        "Data": "8 de Junho",
+        "Historia": 101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.804008333333,
+          -20.824813888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 102,
+        "Nome": "Clamor das Cornetas",
+        "Km": 236,
+        "Data": "8 de Junho",
+        "Historia": 102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.804316666667,
+          -20.805716666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 103,
+        "Nome": "Retirada Paraguaia",
+        "Km": 238,
+        "Data": "8 de Junho",
+        "Historia": 103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.808008333333,
+          -20.776841666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 104,
+        "Nome": "Noite Memorável",
+        "Km": 240,
+        "Data": "8 de Junho",
+        "Historia": 104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.807330555556,
+          -20.758316666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 105,
+        "Nome": "Travessia do Taquarussu",
+        "Km": 242,
+        "Data": "9 de Junho",
+        "Historia": 105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.809919444444,
+          -20.740941666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 106,
+        "Nome": "Ponta de Gado",
+        "Km": 244,
+        "Data": "10 de Junho",
+        "Historia": 106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.810702777778,
+          -20.722777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 107,
+        "Nome": "Mensagem do Coronel Lima",
+        "Km": 146,
+        "Data": "10 de Junho",
+        "Historia": 107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.810183333333,
+          -20.704927777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 108,
+        "Nome": "Queimada Noturna",
+        "Km": 248,
+        "Data": "10 de Junho",
+        "Historia": 108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.767027777778,
+          -20.685344444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 109,
+        "Nome": "Nuvens Roubadas",
+        "Km": 250,
+        "Data": "10 de Junho",
+        "Historia": 109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.765627777778,
+          -20.666822222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 110,
+        "Nome": "Vaquejando no Taquarussu",
+        "Km": 252,
+        "Data": "10 de Junho",
+        "Historia": 110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.781294444444,
+          -20.653672222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 111,
+        "Nome": "Gado Esparramado",
+        "Km": 254,
+        "Data": "10 de Junho",
+        "Historia": 111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.776063888889,
+          -20.6328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 112,
+        "Nome": "Posto Paraguaio",
+        "Km": 256,
+        "Data": "10 de Junho",
+        "Historia": 112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.774622222222,
+          -20.615027777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 113,
+        "Nome": "Dois Córregos",
+        "Km": 257,
+        "Data": "10 de Junho",
+        "Historia": 113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.778319444444,
+          -20.598161111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 114,
+        "Nome": "Rumo ao Aquidauana",
+        "Km": 259,
+        "Data": "11 de Junho",
+        "Historia": 114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.770772222222,
+          -20.581019444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 115,
+        "Nome": "Legua Final",
+        "Km": 261,
+        "Data": "11 de Junho",
+        "Historia": 115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.772952777778,
+          -20.564319444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 116,
+        "Nome": "Estrada do Canuto",
+        "Km": 263,
+        "Data": "11 de Junho",
+        "Historia": 116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.773077777778,
+          -20.550094444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nr": 117,
+        "Nome": "Porto Canuto",
+        "Km": 265,
+        "Data": "11 de Junho",
+        "Historia": 117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.768386111111,
+          -20.529433333333
+        ]
+      }
+    }
+  ]
+} 
