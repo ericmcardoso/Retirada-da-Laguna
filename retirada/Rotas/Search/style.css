@@ -297,7 +297,9 @@ ul li {
 
 .search-box .user-box input {
     position: relative;
-    width: 100%;
+	margin-top: 150px;
+	margin-left: 100px;
+    width: 90%;
     padding: 10px 0;
     font-size: 16px;
     color: rgb(0, 0, 0);
@@ -321,6 +323,7 @@ ul li {
  
  .search-box .user-box input:focus~label,
  .search-box .user-box input:valid~label {
+	margin-left: 100px;
     top: -85px;
     left: 0;
     color: #12431A;
@@ -330,6 +333,10 @@ ul li {
     font-size:  1.5em;
     margin-left: 90px;
    }
+#list1{
+    font-size:  1.5em;
+    margin-left: 90px;
+}
  
 .monumentos{
    display: list-item;    
@@ -370,4 +377,12 @@ ul li {
     padding-right: 500px;
     padding-bottom: 200px;
     border-radius: 10px;
+}
+
+.content{
+	overflow: hidden;
+}
+
+.slides{
+	margin-left: 800px;
 }
